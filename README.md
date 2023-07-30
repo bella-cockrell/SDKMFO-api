@@ -14,3 +14,6 @@ This repo houses the API for the Super Duper Knitting Machine Figure Outer.
 
 ## Testing
 Run `pytest` and see those tests go.
+
+## Updating dependencies
+Inside the environment, run `pip freeze > requirements.txt`
