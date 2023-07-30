@@ -1,6 +1,6 @@
 from typing import Union
 from fastapi import FastAPI
-from Domain.Item import Item
+from API.Domain.Item import Item
 
 app = FastAPI()
 
